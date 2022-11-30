@@ -1,0 +1,15 @@
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\bin\Debug\net7.0\zadaha252729.exe
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\bin\Debug\net7.0\zadaha252729.deps.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\bin\Debug\net7.0\zadaha252729.runtimeconfig.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\bin\Debug\net7.0\zadaha252729.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\bin\Debug\net7.0\zadaha252729.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.csproj.AssemblyReference.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.AssemblyInfoInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.AssemblyInfo.cs
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.csproj.CoreCompileInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\refint\zadaha252729.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\zadaha252729.genruntimeconfig.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\zadaha252729\obj\Debug\net7.0\ref\zadaha252729.dll
