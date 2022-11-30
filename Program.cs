@@ -2,22 +2,22 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-int a = new Random ().Next (2,11);
-Console.WriteLine(a);
-int b = new Random ().Next (2,11);
-Console.WriteLine(b);
-int sum = Number(a, b);
-Console.WriteLine("number is " + sum);
-int Number (int a, int b)
-{
-    int result = 1;
-    for(int i=1; i <= b; i++);
-    {
-        result = result * a;
-    }
-    Console.Write(result);
+// int a = new Random ().Next (2,11);
+// Console.WriteLine(a);
+// int b = new Random ().Next (2,11);
+// Console.WriteLine(b);
+// int sum = Number(a, b);
+// Console.WriteLine("number is " + sum);
+// int Number (int a, int b)
+// {
+//     int result = 1;
+//     for(int i=1; i <= b; i++)
+//     {
+//         result = result * a;
+//     }
+//     return result;
 
-}
+// }
 
 
 
@@ -28,14 +28,28 @@ int Number (int a, int b)
 
 // int a = new Random ().Next (11,1000);
 // Console.WriteLine(a);
-// int sum = 0;
-// while(a != 0)
+// int len = NumberLen(a);
+// SumNumbers(a, len);
+// int NumberLen(int a)
+// {
+//     int i = 0;
+//     while (a > 0)
 //     {
-//      sum =+(a % 10);
-//         a/=10;
-//     }     
-// Console.WriteLine(sum);
-
+//         a /= 10;
+//         i++;
+//     }
+//     return i;
+// }
+// void SumNumbers(int n, int len)
+// {
+//     int sum = 0;
+//     for (int i = 1; i <= len; i++)
+//     {
+//         sum += n % 10;
+//         n /= 10;
+//     }
+//     Console.WriteLine(sum);
+// }
 
 // Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
